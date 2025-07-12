@@ -80,7 +80,7 @@ An AI-powered cost optimization advisor agent, built using **Lyzr Studio** and *
 
 **Ipshita Bhardwaj**  
 B.Tech Robotics & AI | Aspiring Cloud + AI Developer  
-🌐 [Portfolio](https://ipshitabhardwaj.github.io/Portfolio) • ✨ [LinkedIn](https://www.linkedin.com/in/ipshitabhardwaj/) • 🐱 [GitHub](https://github.com/ipshitabhardwaj)
+🌐 [Portfolio](https://ipshitabhardwaj.github.io/Portfolio) • ✨ [LinkedIn](https://www.linkedin.com/in/ipshita-bhardwaj/) • 🐱 [GitHub](https://github.com/ipshitabhardwaj)
 
 ---
 
