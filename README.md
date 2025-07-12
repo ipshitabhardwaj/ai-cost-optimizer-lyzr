@@ -1,6 +1,6 @@
 # AI Cost Optimization Advisor for Enterprises
 
-🎯 **Project for:** [Lyzr AI Architect Challenge – HackerEarth](https://www.hackerearth.com/challenges/hackathon/lyzr-ai-architect-challenge/)  
+🎯 **Project for:** [Lyzr AI Architect Challenge – HackerEarth](https://www.hackerearth.com/challenges/hackathon/lyzr)  
 👩‍💻 **Participant:** Ipshita Bhardwaj  
 📄 **Submission Deck:** [`Lyzr_HackerEarth_IpshitaBhardwaj_Submission.pdf`](./Lyzr_HackerEarth_IpshitaBhardwaj_Submission.pdf)
 
