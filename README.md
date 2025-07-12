@@ -39,6 +39,7 @@ This project is an AI-powered cost optimization advisor built using **Lyzr Studi
 | `aws_cost_advisor.py` | Simulated Python backend for cost analysis and suggestions |
 | `Lyzr_HackerEarth_IpshitaBhardwaj_Submission.pdf` | Slide deck with project overview, architecture, and impact |
 | `README.md` | Project documentation (this file) |
+|` demo.md `| Project demo Video|
 
 ---
 
