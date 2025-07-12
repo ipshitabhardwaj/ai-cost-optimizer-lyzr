@@ -3,6 +3,7 @@
 🎯 **Project for:** [Lyzr AI Architect Challenge – HackerEarth](https://www.hackerearth.com/challenges/hackathon/lyzr/)  
 👩‍💻 **Participant:** Ipshita Bhardwaj  
 📄 **Submission Deck:** [`Lyzr_HackerEarth_IpshitaBhardwaj_Submission.pdf`](./Lyzr_HackerEarth_IpshitaBhardwaj_Submission.pdf)
+📽️ **Demo Video** [DEMO LINK](https://www.loom.com/share/9409c3e931664bf8a26760308fe16f83?sid=29bfa952-b75a-4cec-b8d8-386daea722c6)
 
 ---
 
